@@ -7,3 +7,5 @@ Predicting concrete strength from raw material proportions
 ## Check out full project: 
 
 https://medium.com/@phillippatience2018/concrete-quality-control-analysis-predicting-concrete-strength-from-raw-material-proportions-d8b1af5c4cf7
+
+![Concrete Quality control Analysis](IMG_3956.jpeg)
