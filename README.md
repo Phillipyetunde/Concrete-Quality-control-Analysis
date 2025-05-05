@@ -1,6 +1,6 @@
 # Concrete-Quality-control-Analysis
 Predicting concrete strength from raw material proportions
-## This analysis:
+## Aims and Objectives:
 1. Analyze how raw material composition affects compressive strength 
 2. Check the Influence of water content and cement proportion on concrete quality 
 3. Determine whether compressive strength increases consistently with curing age (in days)
