@@ -6,6 +6,6 @@ Predicting concrete strength from raw material proportions
 3. Determine whether compressive strength increases consistently with curing age (in days)
 ## Check out full project: 
 
-https://medium.com/@phillippatience2018/concrete-quality-control-analysis-predicting-concrete-strength-from-raw-material-proportions-d8b1af5c4cf7
+https://bit.ly/4iTAZ53
 
 ![Concrete Quality control Analysis](IMG_3956.jpeg)
